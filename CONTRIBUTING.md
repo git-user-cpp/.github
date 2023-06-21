@@ -1,4 +1,4 @@
-# **Contributing to FiDeus**
+# **Contributing to projects**
 
 ## _Each contribution must be only in English and licensed as in LICENSE, without any additional terms or conditions._
 
@@ -30,7 +30,7 @@ Screenshots:
 
 Environment:
 
-    FiDeus version: <type your version>
+    Program version: <type your version>
     Rust version: <type your version>
     OS info: <type info about your operating system and its architecture>
 ```
